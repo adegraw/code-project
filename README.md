@@ -11,6 +11,7 @@ A Python utility for bulk converting CSV files to Parquet format using Pandas an
 - Logging to both file and console for traceability
 - JSON summary report with row counts and file sizes
 - Command-line interface using `argparse`
+- Sample dump files included. 3 CSV and 1 txt to test with multiple file ext.
 
 ---
 
@@ -70,4 +71,5 @@ You’re free to use, modify, and distribute it with attribution.
 **Allen DeGraw**  
 Database Engineer, Senior ETL Developer, & Data Integration Specialist  
 LinkedIn: www.linkedin.com/in/allen-degraw-68577265  
+
 GitHub: https://github.com/adegraw  
