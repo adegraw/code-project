@@ -1,0 +1,17 @@
+# Ignore log files
+*.log
+
+# Ignore JSON summary reports
+Bulk_Run_Summary_*.json
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore virtual environments (if used)
+venv/
+.env/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "CSV_to_Parquet_Bulk_Run",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/CSV_to_Parquet_bulk_converter.py",
+            "args": [
+                "--source", "C:/Users/allen/code_projects/BULK_CSV_to_Parquet/source",
+                "--target", "C:/Users/allen/code_projects/BULK_CSV_to_Parquet/target"
+            ],
+            "console": "integratedTerminal"
+        }
+    ]
+}
