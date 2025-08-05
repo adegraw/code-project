@@ -71,7 +71,8 @@ You’re free to use, modify, and distribute it with attribution.
 ## Author
 
 **Allen DeGraw**  
-Database Engineer, Senior ETL Developer, & Data Integration Specialist
+Database Engineer, Senior ETL Developer, & Data Integration Specialist.  
 LinkedIn: www.linkedin.com/in/allen-degraw-68577265
 GitHub: https://github.com/adegraw
 ```
+
