@@ -72,7 +72,8 @@ You’re free to use, modify, and distribute it with attribution.
 
 **Allen DeGraw**  
 Database Engineer, Senior ETL Developer, & Data Integration Specialist.  
-LinkedIn: www.linkedin.com/in/allen-degraw-68577265
+LinkedIn: www.linkedin.com/in/allen-degraw-68577265  
 GitHub: https://github.com/adegraw
 ```
+
 
